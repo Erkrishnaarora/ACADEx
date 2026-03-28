@@ -1,3 +1,8 @@
+# Project: ACADEx
+# Developed by: Krishna Arora
+# Year: 2026
+# Description: Academic Centralized Analytics and Data System for Student Performance and Expense Management
+# GitHub: https://github.com/ErKrishnaarora
 import streamlit as st    
 import pandas as pd    
 import sqlite3    
